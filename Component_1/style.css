@@ -1,0 +1,118 @@
+* {
+  box-sizing: border-box; /* Includes padding and border in the element's total width and height */
+}
+
+body {
+  margin: 0;
+  overflow-x: hidden; /* Prevent horizontal scrolling */
+}
+
+.header {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  background: rgba(255, 255, 255, 1); /* White background */
+  width: 100%;
+  height: 80px;
+  box-shadow: 0px 4px 20px 5px rgba(0, 0, 0, 0.05); /* Box shadow */
+}
+
+.logo {
+  width: 80px;
+  height: 50px;
+  margin-right: 25px;
+}
+
+.bluestock {
+  font-family: "Poppins", sans-serif;
+  font-size: 30px;
+  font-weight: 800;
+  line-height: 60px;
+  text-align: left;
+  color: #1e1e1e; /* Ensure text color is set */
+  margin-right: 30px; /* Space between BLUESTOCK and nav links */
+}
+
+.nav-links {
+  display: flex;
+  gap: 30px; /* Space between nav links */
+  flex-grow: 1; /* Take up remaining space */
+}
+
+.nav-link {
+  font-family: "Poppins", sans-serif;
+  font-size: 13px;
+  font-weight: 600;
+  line-height: 22.5px;
+  color: rgba(154, 154, 154, 1); /* Text color */
+  display: flex;
+  align-items: center; /* Vertically centers text */
+  justify-content: center; /* Horizontally centers text */
+  cursor: pointer; /* Changes cursor to pointer on hover */
+  text-decoration: none; /* Removes underline */
+  position: relative; /* For absolutely positioning icons */
+}
+
+.media-link {
+  display: flex;
+  align-items: center;
+  position: relative;
+}
+
+.polygon {
+  position: absolute;
+  top: 10px; /* Adjust as needed to align with the top right corner */
+  right: 5px; /* Adjust as needed to align with the top right corner */
+  width: 10px;
+  height: 5px;
+  fill: rgba(154, 154, 154, 1); /* Color of the polygon */
+}
+
+.support-link {
+  display: flex;
+  align-items: center;
+  position: relative; /* Required for absolutely positioning the arrow */
+}
+
+.arrow {
+  position: absolute;
+  top: 10px; /* Adjust to align with the top right corner of "SUPPORT" */
+  right: 5px; /* Adjust to align with the top right corner of "SUPPORT" */
+  width: 9.18px;
+  height: 8px;
+  stroke: rgba(154, 154, 154, 1); /* Color of the arrow */
+  stroke-width: 1;
+  transform: rotate(-26.57deg);
+}
+
+.auth-options {
+  display: flex;
+  gap: 20px; /* Space between auth options */
+  margin-left: auto; /* Pushes the auth options to the right */
+}
+
+.sign-up-button {
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 600;
+  line-height: 22.5px;
+  color: rgba(255, 255, 255, 1); /* Text color */
+  background: rgba(63, 82, 255, 1); /* Button background color */
+  border: none;
+  width: 120px;
+  height: 35px;
+  display: flex;
+  align-items: center; /* Vertically centers text */
+  justify-content: center; /* Horizontally centers text */
+  cursor: pointer; /* Changes cursor to pointer on hover */
+  margin-top: 5px;
+}
+
+.vector {
+  width: 15.63px;
+  height: 21.88px;
+  fill: rgba(0, 0, 0, 1); /* Vector color */
+  transform: rotate(90deg);
+  margin-top: 15px;
+  margin-left: -5px;
+}
