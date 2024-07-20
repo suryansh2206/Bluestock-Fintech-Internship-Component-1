@@ -35,7 +35,7 @@ body {
 
 .nav-links {
   display: flex;
-  gap: 30px; /* Space between nav links */
+  gap: 10px; /* Space between nav links */
   flex-grow: 1; /* Take up remaining space */
 }
 
@@ -89,6 +89,7 @@ body {
   display: flex;
   gap: 20px; /* Space between auth options */
   margin-left: auto; /* Pushes the auth options to the right */
+  margin-right: 40px;
 }
 
 .sign-up-button {
@@ -113,7 +114,7 @@ body {
   height: 21.88px;
   fill: rgba(0, 0, 0, 1); /* Vector color */
   transform: rotate(90deg);
-  margin-top: 15px;
+  margin-top: 12px;
   margin-left: -5px;
 }
 
