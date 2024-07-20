@@ -116,3 +116,124 @@ body {
   margin-top: 15px;
   margin-left: -5px;
 }
+
+.upcomingIPOcontainer {
+  width: 709px;
+  height: 100px;
+  margin-top: 66px; /* 146px (top position) - 80px (height of the header) */
+  margin-left: 60px; /* left position */
+  opacity: 1; /* Set to 1 to make it visible */
+  gap: 0px;
+}
+
+.bluestockIPO {
+  width: 58px;
+  height: 20px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 100px;
+  left: 40px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: left;
+  color: rgba(0, 0, 255, 1);
+}
+
+.bracket1 {
+  width: 10px;
+  height: 20px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 100px;
+  left: 110px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 18px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+
+.ipo {
+  width: 58px;
+  height: 20px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 100px;
+  left: 125px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: left;
+  color: rgba(0, 0, 255, 1);
+}
+
+.bracket2 {
+  width: 10px;
+  height: 20px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 100px;
+  left: 150px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  font-weight: 600;
+  line-height: 18px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+
+.contentIPO {
+  width: auto;
+  height: 20px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 100px;
+  left: 165px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 18px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+
+.upcomingIPO {
+  width: auto;
+  height: 48px;
+  position: fixed;
+  top: 130px;
+  left: 40px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: "Poppins", sans-serif;
+  font-size: 34px;
+  font-weight: 600;
+  line-height: 48px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
+
+.upcomingIPOtextcontent {
+  width: 709px;
+  height: 21px;
+  margin-top: 40px;
+  position: fixed;
+  left: 42px;
+  gap: 0px;
+  opacity: 0px;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 21px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1);
+}
