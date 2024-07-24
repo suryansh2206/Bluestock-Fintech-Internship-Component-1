@@ -299,3 +299,93 @@ body {
   gap: 0px; /* This property is not applicable for a single element, it is used in flex or grid containers */
   opacity: 0px;
 }
+
+.oyo-img {
+  width: 80px;
+  height: 80px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 400px;
+  left: 10px;
+  gap: 0px; /* This property is not applicable for a single element, it is used in flex or grid containers */
+  opacity: 0px;
+}
+
+.boat-img {
+  width: 80px;
+  height: 45px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 410px;
+  left: 550px;
+  gap: 0px; /* This property is not applicable for a single element, it is used in flex or grid containers */
+  opacity: 0px;
+}
+
+.cloudnine-img {
+  width: 89px;
+  height: 88px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 400px;
+  left: 1070px;
+  gap: 0px; /* This property is not applicable for a single element, it is used in flex or grid containers */
+  opacity: 0px;
+}
+
+.ola-img {
+  width: 80px;
+  height: 80px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 780px;
+  left: 25px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.mobikwik-img {
+  width: 60px;
+  height: 60px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 780px;
+  left: 550px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.ixigo-img {
+  width: 75px;
+  height: 50px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 800px;
+  left: 1080px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.cmr-img {
+  width: 80px;
+  height: 80px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1150px;
+  left: 25px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.wellness-img {
+  width: 100px;
+  height: 70px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1150px;
+  left: 550px;
+  gap: 0px;
+  opacity: 0px;
+}
+
+.pkh-img {
+  width: 75px;
+  height: 70px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1160px;
+  left: 1080px;
+  gap: 0px;
+  opacity: 0px;
+}
