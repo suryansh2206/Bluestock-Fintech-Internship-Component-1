@@ -280,14 +280,46 @@ body {
   opacity: 0px;
 }
 
+.nova-heading {
+  width: 220px;
+  height: 36px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 36px;
+  left: 180px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 36px;
+  text-align: left;
+  color: rgba(65, 75, 234, 1);
+}
+
 .epack-img {
-  width: 75px;
-  height: 75px;
+  width: 72px;
+  height: 72px;
   position: absolute; /* Ensures the 'top' and 'left' properties work */
   top: 20px;
   left: 550px;
   gap: 0px; /* This property is not applicable for a single element, it is used in flex or grid containers */
   opacity: 0px;
+}
+
+.epack-heading {
+  width: 220px;
+  height: 36px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 37px;
+  left: 680px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 36px;
+  text-align: left;
+  color: rgba(65, 75, 234, 1);
 }
 
 .rsswamy-img {
@@ -300,6 +332,22 @@ body {
   opacity: 0px;
 }
 
+.rsswamy-heading {
+  width: 220px;
+  height: 36px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 34px;
+  left: 1250px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 36px;
+  text-align: left;
+  color: rgba(65, 75, 234, 1);
+}
+
 .oyo-img {
   width: 80px;
   height: 80px;
@@ -308,6 +356,22 @@ body {
   left: 10px;
   gap: 0px; /* This property is not applicable for a single element, it is used in flex or grid containers */
   opacity: 0px;
+}
+
+.oyo-heading {
+  width: 220px;
+  height: 36px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 422px;
+  left: 150px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 36px;
+  text-align: left;
+  color: rgba(65, 75, 234, 1);
 }
 
 .boat-img {
@@ -320,6 +384,22 @@ body {
   opacity: 0px;
 }
 
+.boat-heading {
+  width: 220px;
+  height: 36px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 415px;
+  left: 680px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 36px;
+  text-align: left;
+  color: rgba(65, 75, 234, 1);
+}
+
 .cloudnine-img {
   width: 89px;
   height: 88px;
@@ -328,6 +408,22 @@ body {
   left: 1070px;
   gap: 0px; /* This property is not applicable for a single element, it is used in flex or grid containers */
   opacity: 0px;
+}
+
+.cloudnine-heading {
+  width: 220px;
+  height: 36px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 422px;
+  left: 1200px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 36px;
+  text-align: left;
+  color: rgba(65, 75, 234, 1);
 }
 
 .ola-img {
@@ -340,6 +436,22 @@ body {
   opacity: 0px;
 }
 
+.ola-heading {
+  width: 220px;
+  height: 36px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 800px;
+  left: 150px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 36px;
+  text-align: left;
+  color: rgba(65, 75, 234, 1);
+}
+
 .mobikwik-img {
   width: 60px;
   height: 60px;
@@ -348,6 +460,22 @@ body {
   left: 550px;
   gap: 0px;
   opacity: 0px;
+}
+
+.mobikwik-heading {
+  width: 220px;
+  height: 36px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 795px;
+  left: 680px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 36px;
+  text-align: left;
+  color: rgba(65, 75, 234, 1);
 }
 
 .ixigo-img {
@@ -360,6 +488,22 @@ body {
   opacity: 0px;
 }
 
+.ixigo-heading {
+  width: 220px;
+  height: 36px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 802px;
+  left: 1200px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 36px;
+  text-align: left;
+  color: rgba(65, 75, 234, 1);
+}
+
 .cmr-img {
   width: 80px;
   height: 80px;
@@ -370,14 +514,46 @@ body {
   opacity: 0px;
 }
 
+.cmr-heading {
+  width: 220px;
+  height: 36px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1175px;
+  left: 130px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 36px;
+  text-align: left;
+  color: rgba(65, 75, 234, 1);
+}
+
 .wellness-img {
   width: 100px;
   height: 70px;
   position: absolute; /* Ensures the 'top' and 'left' properties work */
-  top: 1150px;
+  top: 1155px;
   left: 550px;
   gap: 0px;
   opacity: 0px;
+}
+
+.wellness-heading {
+  width: 220px;
+  height: 36px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1168px;
+  left: 685px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 36px;
+  text-align: left;
+  color: rgba(65, 75, 234, 1);
 }
 
 .pkh-img {
@@ -388,4 +564,20 @@ body {
   left: 1080px;
   gap: 0px;
   opacity: 0px;
+}
+
+.pkh-heading {
+  width: 220px;
+  height: 36px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1175px;
+  left: 1200px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 36px;
+  text-align: left;
+  color: rgba(65, 75, 234, 1);
 }
