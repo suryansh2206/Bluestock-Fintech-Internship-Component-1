@@ -296,6 +296,54 @@ body {
   color: rgba(65, 75, 234, 1);
 }
 
+.nova-priceband {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 130px;
+  left: 20px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.nova-open {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 130px;
+  left: 180px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.nova-close {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 130px;
+  left: 300px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
 .epack-img {
   width: 72px;
   height: 72px;
@@ -320,6 +368,54 @@ body {
   line-height: 36px;
   text-align: left;
   color: rgba(65, 75, 234, 1);
+}
+
+.epack-priceband {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 130px;
+  left: 550px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.epack-open {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 130px;
+  left: 710px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.epack-close {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 130px;
+  left: 830px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
 }
 
 .rsswamy-img {
@@ -348,6 +444,54 @@ body {
   color: rgba(65, 75, 234, 1);
 }
 
+.rsswamy-priceband {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 130px;
+  left: 1080px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.rsswamy-open {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 130px;
+  left: 1240px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.rsswamy-close {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 130px;
+  left: 1360px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
 .oyo-img {
   width: 80px;
   height: 80px;
@@ -372,6 +516,54 @@ body {
   line-height: 36px;
   text-align: left;
   color: rgba(65, 75, 234, 1);
+}
+
+.oyo-priceband {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 510px;
+  left: 20px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.oyo-open {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 510px;
+  left: 180px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.oyo-close {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 510px;
+  left: 300px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
 }
 
 .boat-img {
@@ -400,6 +592,54 @@ body {
   color: rgba(65, 75, 234, 1);
 }
 
+.boat-priceband {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 510px;
+  left: 550px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.boat-open {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 510px;
+  left: 710px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.boat-close {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 510px;
+  left: 830px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
 .cloudnine-img {
   width: 89px;
   height: 88px;
@@ -424,6 +664,54 @@ body {
   line-height: 36px;
   text-align: left;
   color: rgba(65, 75, 234, 1);
+}
+
+.cloudnine-priceband {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 510px;
+  left: 1080px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.cloudnine-open {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 510px;
+  left: 1240px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.cloudnine-close {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 510px;
+  left: 1360px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
 }
 
 .ola-img {
@@ -452,6 +740,54 @@ body {
   color: rgba(65, 75, 234, 1);
 }
 
+.ola-priceband {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 890px;
+  left: 20px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.ola-open {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 890px;
+  left: 180px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.ola-close {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 890px;
+  left: 300px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
 .mobikwik-img {
   width: 60px;
   height: 60px;
@@ -476,6 +812,54 @@ body {
   line-height: 36px;
   text-align: left;
   color: rgba(65, 75, 234, 1);
+}
+
+.mobikwik-priceband {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 890px;
+  left: 550px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.mobikwik-open {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 890px;
+  left: 710px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.mobikwik-close {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 890px;
+  left: 830px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
 }
 
 .ixigo-img {
@@ -504,6 +888,54 @@ body {
   color: rgba(65, 75, 234, 1);
 }
 
+.ixigo-priceband {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 890px;
+  left: 1080px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.ixigo-open {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 890px;
+  left: 1240px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.ixigo-close {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 890px;
+  left: 1360px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
 .cmr-img {
   width: 80px;
   height: 80px;
@@ -528,6 +960,54 @@ body {
   line-height: 36px;
   text-align: left;
   color: rgba(65, 75, 234, 1);
+}
+
+.cmr-priceband {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1250px;
+  left: 20px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.cmr-open {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1250px;
+  left: 180px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.cmr-close {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1250px;
+  left: 300px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
 }
 
 .wellness-img {
@@ -556,6 +1036,54 @@ body {
   color: rgba(65, 75, 234, 1);
 }
 
+.wellness-priceband {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1250px;
+  left: 550px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.wellness-open {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1250px;
+  left: 710px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.wellness-close {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1250px;
+  left: 830px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
 .pkh-img {
   width: 75px;
   height: 70px;
@@ -580,4 +1108,52 @@ body {
   line-height: 36px;
   text-align: left;
   color: rgba(65, 75, 234, 1);
+}
+
+.pkh-priceband {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1250px;
+  left: 1080px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.pkh-open {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1250px;
+  left: 1240px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.pkh-close {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1250px;
+  left: 1360px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
 }
