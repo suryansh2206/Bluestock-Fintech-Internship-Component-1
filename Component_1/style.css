@@ -392,6 +392,54 @@ body {
   color: rgba(0, 0, 0, 1); /* Text color */
 }
 
+.nova-issuesize {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 210px;
+  left: 20px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.nova-issuetype {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 210px;
+  left: 170px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.nova-listingdate {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 210px;
+  left: 300px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
 .epack-img {
   width: 72px;
   height: 72px;
@@ -512,6 +560,54 @@ body {
   line-height: 27px;
   text-align: left;
   color: rgba(0, 0, 0, 1); /* Text color */
+}
+
+.epack-issuesize {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 210px;
+  left: 550px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.epack-issuetype {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 210px;
+  left: 700px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.epack-listingdate {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 210px;
+  left: 830px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
 }
 
 .rsswamy-img {
@@ -636,6 +732,54 @@ body {
   color: rgba(0, 0, 0, 1); /* Text color */
 }
 
+.rsswamy-issuesize {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 210px;
+  left: 1080px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.rsswamy-issuetype {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 210px;
+  left: 1230px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.rsswamy-listingdate {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 210px;
+  left: 1360px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
 .oyo-img {
   width: 80px;
   height: 80px;
@@ -756,6 +900,54 @@ body {
   line-height: 27px;
   text-align: left;
   color: rgba(0, 0, 0, 1); /* Text color */
+}
+
+.oyo-issuesize {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 590px;
+  left: 20px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.oyo-issuetype {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 590px;
+  left: 170px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.oyo-listingdate {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 590px;
+  left: 300px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
 }
 
 .boat-img {
@@ -880,6 +1072,54 @@ body {
   color: rgba(0, 0, 0, 1); /* Text color */
 }
 
+.boat-issuesize {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 590px;
+  left: 550px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.boat-issuetype {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 590px;
+  left: 700px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.boat-listingdate {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 590px;
+  left: 830px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
 .cloudnine-img {
   width: 89px;
   height: 88px;
@@ -1002,6 +1242,54 @@ body {
   color: rgba(0, 0, 0, 1); /* Text color */
 }
 
+.cloudnine-issuesize {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 590px;
+  left: 1080px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.cloudnine-issuetype {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 590px;
+  left: 1230px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.cloudnine-listingdate {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 590px;
+  left: 1360px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
 .ola-img {
   width: 80px;
   height: 80px;
@@ -1119,6 +1407,54 @@ body {
   font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 600;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1); /* Text color */
+}
+
+.ola-issuesize {
+  width: 90px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 970px;
+  left: 20px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1); /* Text color */
+}
+
+.ola-issuetype {
+  width: 90px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 970px;
+  left: 170px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1); /* Text color */
+}
+
+.ola-listingdate {
+  width: 90px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 970px;
+  left: 300px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
   line-height: 27px;
   text-align: left;
   color: rgba(0, 0, 0, 1); /* Text color */
@@ -1246,6 +1582,54 @@ body {
   color: rgba(0, 0, 0, 1); /* Text color */
 }
 
+.mobikwik-issuesize {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 970px;
+  left: 550px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.mobikwik-issuetype {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 970px;
+  left: 700px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.mobikwik-listingdate {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 970px;
+  left: 830px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
 .ixigo-img {
   width: 75px;
   height: 50px;
@@ -1368,6 +1752,54 @@ body {
   color: rgba(0, 0, 0, 1); /* Text color */
 }
 
+.ixigo-issuesize {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 970px;
+  left: 1080px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.ixigo-issuetype {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 970px;
+  left: 1230px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.ixigo-listingdate {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 970px;
+  left: 1360px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
 .cmr-img {
   width: 80px;
   height: 80px;
@@ -1485,6 +1917,54 @@ body {
   font-family: "Poppins", sans-serif;
   font-size: 14px;
   font-weight: 600;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1); /* Text color */
+}
+
+.cmr-issuesize {
+  width: 90px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1330px;
+  left: 20px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1); /* Text color */
+}
+
+.cmr-issuetype {
+  width: 90px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1330px;
+  left: 170px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1); /* Text color */
+}
+
+.cmr-listingdate {
+  width: 90px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1330px;
+  left: 300px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
   line-height: 27px;
   text-align: left;
   color: rgba(0, 0, 0, 1); /* Text color */
@@ -1612,6 +2092,54 @@ body {
   color: rgba(0, 0, 0, 1); /* Text color */
 }
 
+.wellness-issuesize {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1330px;
+  left: 550px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.wellness-issuetype {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1330px;
+  left: 700px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.wellness-listingdate {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1330px;
+  left: 830px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
 .pkh-img {
   width: 75px;
   height: 70px;
@@ -1732,4 +2260,52 @@ body {
   line-height: 27px;
   text-align: left;
   color: rgba(0, 0, 0, 1); /* Text color */
+}
+
+.pkh-issuesize {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1330px;
+  left: 1080px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.pkh-issuetype {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1330px;
+  left: 1230px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
+}
+
+.pkh-listingdate {
+  width: 103px;
+  height: 27px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1330px;
+  left: 1360px;
+  gap: 0px; /* Not applicable for a single element */
+  opacity: 0px; /* Makes the element invisible */
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 27px;
+  text-align: left;
+  color: rgba(90, 88, 88, 1); /* Text color */
 }
