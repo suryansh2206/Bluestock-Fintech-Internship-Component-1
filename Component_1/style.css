@@ -270,6 +270,8 @@ body {
   border-radius: 10px;
 }
 
+/* Nova */
+
 .nova-img {
   width: 110px;
   height: 47px;
@@ -421,7 +423,7 @@ body {
   font-weight: 600;
   line-height: 27px;
   text-align: left;
-  color: rgba(90, 88, 88, 1); /* Text color */
+  color: rgba(0, 0, 0, 1); /* Text color */
 }
 
 .nova-issuetype {
@@ -487,6 +489,21 @@ body {
   text-align: left;
   color: rgba(0, 0, 0, 1); /* Text color */
 }
+
+.nova-rhp {
+  width: 80px;
+  height: 35px;
+  position: relative; /* Ensures the 'bottom' and 'right' properties work */
+  bottom: -135px; /* Distance from the bottom of the container */
+  right: 160px; /* Distance from the right of the container */
+  border-radius: 10px 10px 10px 10px;
+  border: 1px solid rgba(65, 75, 234, 1);
+  opacity: 10; /* Adjust this as needed to make it visible */
+  background-color: white; /* Add a background color if needed */
+  color: #1e1e1e; /* Text color */
+}
+
+/* Epack */
 
 .epack-img {
   width: 72px;
@@ -706,6 +723,21 @@ body {
   color: rgba(0, 0, 0, 1); /* Text color */
 }
 
+.epack-rhp {
+  width: 80px;
+  height: 35px;
+  position: relative; /* Ensures the 'bottom' and 'right' properties work */
+  bottom: -135px; /* Distance from the bottom of the container */
+  right: 160px; /* Distance from the right of the container */
+  border-radius: 10px 10px 10px 10px;
+  border: 1px solid rgba(65, 75, 234, 1);
+  opacity: 10; /* Adjust this as needed to make it visible */
+  background-color: white; /* Add a background color if needed */
+  color: #1e1e1e; /* Text color */
+}
+
+/*Rs Swamy*/
+
 .rsswamy-img {
   width: 105px;
   height: 90px;
@@ -924,6 +956,21 @@ body {
   color: rgba(0, 0, 0, 1); /* Text color */
 }
 
+.rsswamy-rhp {
+  width: 80px;
+  height: 35px;
+  position: relative; /* Ensures the 'bottom' and 'right' properties work */
+  bottom: -135px; /* Distance from the bottom of the container */
+  right: 160px; /* Distance from the right of the container */
+  border-radius: 10px 10px 10px 10px;
+  border: 1px solid rgba(65, 75, 234, 1);
+  opacity: 10; /* Adjust this as needed to make it visible */
+  background-color: white; /* Add a background color if needed */
+  color: #1e1e1e; /* Text color */
+}
+
+/* Oyo */
+
 .oyo-img {
   width: 80px;
   height: 80px;
@@ -1075,7 +1122,7 @@ body {
   font-weight: 600;
   line-height: 27px;
   text-align: left;
-  color: rgba(90, 88, 88, 1); /* Text color */
+  color: rgba(0, 0, 0, 1); /* Text color */
 }
 
 .oyo-issuetype {
@@ -1141,6 +1188,21 @@ body {
   text-align: left;
   color: rgba(0, 0, 0, 1); /* Text color */
 }
+
+.oyo-rhp {
+  width: 80px;
+  height: 35px;
+  position: relative; /* Ensures the 'bottom' and 'right' properties work */
+  bottom: -135px; /* Distance from the bottom of the container */
+  right: 160px; /* Distance from the right of the container */
+  border-radius: 10px 10px 10px 10px;
+  border: 1px solid rgba(65, 75, 234, 1);
+  opacity: 10; /* Adjust this as needed to make it visible */
+  background-color: white; /* Add a background color if needed */
+  color: #1e1e1e; /* Text color */
+}
+
+/* Boat */
 
 .boat-img {
   width: 80px;
@@ -1360,6 +1422,21 @@ body {
   color: rgba(0, 0, 0, 1); /* Text color */
 }
 
+.boat-rhp {
+  width: 80px;
+  height: 35px;
+  position: relative; /* Ensures the 'bottom' and 'right' properties work */
+  bottom: -135px; /* Distance from the bottom of the container */
+  right: 160px; /* Distance from the right of the container */
+  border-radius: 10px 10px 10px 10px;
+  border: 1px solid rgba(65, 75, 234, 1);
+  opacity: 10; /* Adjust this as needed to make it visible */
+  background-color: white; /* Add a background color if needed */
+  color: #1e1e1e; /* Text color */
+}
+
+/* Cloudnine*/
+
 .cloudnine-img {
   width: 89px;
   height: 88px;
@@ -1578,6 +1655,21 @@ body {
   color: rgba(0, 0, 0, 1); /* Text color */
 }
 
+.cloudnine-rhp {
+  width: 80px;
+  height: 35px;
+  position: relative; /* Ensures the 'bottom' and 'right' properties work */
+  bottom: -135px; /* Distance from the bottom of the container */
+  right: 160px; /* Distance from the right of the container */
+  border-radius: 10px 10px 10px 10px;
+  border: 1px solid rgba(65, 75, 234, 1);
+  opacity: 10; /* Adjust this as needed to make it visible */
+  background-color: white; /* Add a background color if needed */
+  color: #1e1e1e; /* Text color */
+}
+
+/* Ola */
+
 .ola-img {
   width: 80px;
   height: 80px;
@@ -1729,7 +1821,7 @@ body {
   font-weight: 600;
   line-height: 27px;
   text-align: left;
-  color: rgba(90, 88, 88, 1); /* Text color */
+  color: rgba(0, 0, 0, 1); /* Text color */
 }
 
 .ola-issuetype {
@@ -1795,6 +1887,21 @@ body {
   text-align: left;
   color: rgba(0, 0, 0, 1); /* Text color */
 }
+
+.ola-rhp {
+  width: 80px;
+  height: 35px;
+  position: relative; /* Ensures the 'bottom' and 'right' properties work */
+  bottom: -135px; /* Distance from the bottom of the container */
+  right: 160px; /* Distance from the right of the container */
+  border-radius: 10px 10px 10px 10px;
+  border: 1px solid rgba(65, 75, 234, 1);
+  opacity: 10; /* Adjust this as needed to make it visible */
+  background-color: white; /* Add a background color if needed */
+  color: #1e1e1e; /* Text color */
+}
+
+/* Mobikwik */
 
 .mobikwik-img {
   width: 60px;
@@ -2014,6 +2121,21 @@ body {
   color: rgba(0, 0, 0, 1); /* Text color */
 }
 
+.mobikwik-rhp {
+  width: 80px;
+  height: 35px;
+  position: relative; /* Ensures the 'bottom' and 'right' properties work */
+  bottom: -135px; /* Distance from the bottom of the container */
+  right: 160px; /* Distance from the right of the container */
+  border-radius: 10px 10px 10px 10px;
+  border: 1px solid rgba(65, 75, 234, 1);
+  opacity: 10; /* Adjust this as needed to make it visible */
+  background-color: white; /* Add a background color if needed */
+  color: #1e1e1e; /* Text color */
+}
+
+/* Ixigo */
+
 .ixigo-img {
   width: 75px;
   height: 50px;
@@ -2232,6 +2354,21 @@ body {
   color: rgba(0, 0, 0, 1); /* Text color */
 }
 
+.ixigo-rhp {
+  width: 80px;
+  height: 35px;
+  position: relative; /* Ensures the 'bottom' and 'right' properties work */
+  bottom: -135px; /* Distance from the bottom of the container */
+  right: 160px; /* Distance from the right of the container */
+  border-radius: 10px 10px 10px 10px;
+  border: 1px solid rgba(65, 75, 234, 1);
+  opacity: 10; /* Adjust this as needed to make it visible */
+  background-color: white; /* Add a background color if needed */
+  color: #1e1e1e; /* Text color */
+}
+
+/* Cmr */
+
 .cmr-img {
   width: 80px;
   height: 80px;
@@ -2383,7 +2520,7 @@ body {
   font-weight: 600;
   line-height: 27px;
   text-align: left;
-  color: rgba(90, 88, 88, 1); /* Text color */
+  color: rgba(0, 0, 0, 1); /* Text color */
 }
 
 .cmr-issuetype {
@@ -2449,6 +2586,21 @@ body {
   text-align: left;
   color: rgba(0, 0, 0, 1); /* Text color */
 }
+
+.cmr-rhp {
+  width: 80px;
+  height: 35px;
+  position: relative; /* Ensures the 'bottom' and 'right' properties work */
+  bottom: -135px; /* Distance from the bottom of the container */
+  right: 160px; /* Distance from the right of the container */
+  border-radius: 10px 10px 10px 10px;
+  border: 1px solid rgba(65, 75, 234, 1);
+  opacity: 10; /* Adjust this as needed to make it visible */
+  background-color: white; /* Add a background color if needed */
+  color: #1e1e1e; /* Text color */
+}
+
+/* Wellness */
 
 .wellness-img {
   width: 100px;
@@ -2668,6 +2820,21 @@ body {
   color: rgba(0, 0, 0, 1); /* Text color */
 }
 
+.wellness-rhp {
+  width: 80px;
+  height: 35px;
+  position: relative; /* Ensures the 'bottom' and 'right' properties work */
+  bottom: -135px; /* Distance from the bottom of the container */
+  right: 160px; /* Distance from the right of the container */
+  border-radius: 10px 10px 10px 10px;
+  border: 1px solid rgba(65, 75, 234, 1);
+  opacity: 10; /* Adjust this as needed to make it visible */
+  background-color: white; /* Add a background color if needed */
+  color: #1e1e1e; /* Text color */
+}
+
+/* Pkh */
+
 .pkh-img {
   width: 75px;
   height: 70px;
@@ -2884,4 +3051,17 @@ body {
   line-height: 27px;
   text-align: left;
   color: rgba(0, 0, 0, 1); /* Text color */
+}
+
+.pkh-rhp {
+  width: 80px;
+  height: 35px;
+  position: relative; /* Ensures the 'bottom' and 'right' properties work */
+  bottom: -135px; /* Distance from the bottom of the container */
+  right: 160px; /* Distance from the right of the container */
+  border-radius: 10px 10px 10px 10px;
+  border: 1px solid rgba(65, 75, 234, 1);
+  opacity: 10; /* Adjust this as needed to make it visible */
+  background-color: white; /* Add a background color if needed */
+  color: #1e1e1e; /* Text color */
 }
