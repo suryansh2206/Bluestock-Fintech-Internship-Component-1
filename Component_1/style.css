@@ -504,6 +504,19 @@ body {
   color: rgba(65, 75, 234, 1); /* Text color */
 }
 
+.nova-dhrp {
+  width: 80px;
+  height: 35px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 292.5px; /* Distance from the top of the container */
+  left: 113px; /* Distance from the left of the container */
+  border-radius: 10px 10px 10px 10px;
+  opacity: 1; /* Adjust opacity to make the button visible */
+  background: rgba(240, 85, 55, 1); /* Add a background color if needed */
+  color: white; /* Text color */
+  border: none;
+}
+
 /* Epack */
 
 .epack-img {
@@ -736,6 +749,19 @@ body {
   background-color: white; /* Add a background color if needed */
   font-weight: 500;
   color: rgba(65, 75, 234, 1); /* Text color */
+}
+
+.epack-dhrp {
+  width: 80px;
+  height: 35px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 292.5px; /* Distance from the top of the container */
+  left: 640px; /* Distance from the left of the container */
+  border-radius: 10px 10px 10px 10px;
+  opacity: 1; /* Adjust opacity to make the button visible */
+  background: rgba(240, 85, 55, 1); /* Add a background color if needed */
+  color: white; /* Text color */
+  border: none;
 }
 
 /*Rs Swamy*/
@@ -972,6 +998,19 @@ body {
   color: rgba(65, 75, 234, 1); /* Text color */
 }
 
+.rsswamy-dhrp {
+  width: 80px;
+  height: 35px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 292.5px; /* Distance from the top of the container */
+  left: 1170px; /* Distance from the left of the container */
+  border-radius: 10px 10px 10px 10px;
+  opacity: 1; /* Adjust opacity to make the button visible */
+  background: rgba(240, 85, 55, 1); /* Add a background color if needed */
+  color: white; /* Text color */
+  border: none;
+}
+
 /* Oyo */
 
 .oyo-img {
@@ -1204,6 +1243,19 @@ body {
   background-color: white; /* Add a background color if needed */
   font-weight: 500;
   color: rgba(65, 75, 234, 1); /* Text color */
+}
+
+.oyo-dhrp {
+  width: 80px;
+  height: 35px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 672.5px; /* Distance from the top of the container */
+  left: 113px; /* Distance from the left of the container */
+  border-radius: 10px 10px 10px 10px;
+  opacity: 1; /* Adjust opacity to make the button visible */
+  background: rgba(240, 85, 55, 1); /* Add a background color if needed */
+  color: white; /* Text color */
+  border: none;
 }
 
 /* Boat */
@@ -1440,6 +1492,19 @@ body {
   color: rgba(65, 75, 234, 1); /* Text color */
 }
 
+.boat-dhrp {
+  width: 80px;
+  height: 35px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 672.5px; /* Distance from the top of the container */
+  left: 640px; /* Distance from the left of the container */
+  border-radius: 10px 10px 10px 10px;
+  opacity: 1; /* Adjust opacity to make the button visible */
+  background: rgba(240, 85, 55, 1); /* Add a background color if needed */
+  color: white; /* Text color */
+  border: none;
+}
+
 /* Cloudnine*/
 
 .cloudnine-img {
@@ -1672,6 +1737,19 @@ body {
   background-color: white; /* Add a background color if needed */
   font-weight: 500;
   color: rgba(65, 75, 234, 1); /* Text color */
+}
+
+.cloudnine-dhrp {
+  width: 80px;
+  height: 35px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 672.5px; /* Distance from the top of the container */
+  left: 1170px; /* Distance from the left of the container */
+  border-radius: 10px 10px 10px 10px;
+  opacity: 1; /* Adjust opacity to make the button visible */
+  background: rgba(240, 85, 55, 1); /* Add a background color if needed */
+  color: white; /* Text color */
+  border: none;
 }
 
 /* Ola */
@@ -1908,6 +1986,19 @@ body {
   color: rgba(65, 75, 234, 1); /* Text color */
 }
 
+.ola-dhrp {
+  width: 80px;
+  height: 35px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1052.5px; /* Distance from the top of the container */
+  left: 113px; /* Distance from the left of the container */
+  border-radius: 10px 10px 10px 10px;
+  opacity: 1; /* Adjust opacity to make the button visible */
+  background: rgba(240, 85, 55, 1); /* Add a background color if needed */
+  color: white; /* Text color */
+  border: none;
+}
+
 /* Mobikwik */
 
 .mobikwik-img {
@@ -2142,6 +2233,19 @@ body {
   color: rgba(65, 75, 234, 1); /* Text color */
 }
 
+.mobikwik-dhrp {
+  width: 80px;
+  height: 35px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1052.5px; /* Distance from the top of the container */
+  left: 640px; /* Distance from the left of the container */
+  border-radius: 10px 10px 10px 10px;
+  opacity: 1; /* Adjust opacity to make the button visible */
+  background: rgba(240, 85, 55, 1); /* Add a background color if needed */
+  color: white; /* Text color */
+  border: none;
+}
+
 /* Ixigo */
 
 .ixigo-img {
@@ -2374,6 +2478,19 @@ body {
   background-color: white; /* Add a background color if needed */
   font-weight: 500;
   color: rgba(65, 75, 234, 1); /* Text color */
+}
+
+.ixigo-dhrp {
+  width: 80px;
+  height: 35px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1052.5px; /* Distance from the top of the container */
+  left: 1170px; /* Distance from the left of the container */
+  border-radius: 10px 10px 10px 10px;
+  opacity: 1; /* Adjust opacity to make the button visible */
+  background: rgba(240, 85, 55, 1); /* Add a background color if needed */
+  color: white; /* Text color */
+  border: none;
 }
 
 /* Cmr */
