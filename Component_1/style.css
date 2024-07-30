@@ -495,12 +495,13 @@ body {
   height: 35px;
   position: relative; /* Ensures the 'bottom' and 'right' properties work */
   bottom: -135px; /* Distance from the bottom of the container */
-  right: 160px; /* Distance from the right of the container */
+  right: 165px; /* Distance from the right of the container */
   border-radius: 10px 10px 10px 10px;
   border: 1px solid rgba(65, 75, 234, 1);
   opacity: 10; /* Adjust this as needed to make it visible */
   background-color: white; /* Add a background color if needed */
-  color: #1e1e1e; /* Text color */
+  font-weight: 500;
+  color: rgba(65, 75, 234, 1); /* Text color */
 }
 
 /* Epack */
@@ -728,12 +729,13 @@ body {
   height: 35px;
   position: relative; /* Ensures the 'bottom' and 'right' properties work */
   bottom: -135px; /* Distance from the bottom of the container */
-  right: 160px; /* Distance from the right of the container */
+  right: 165px; /* Distance from the right of the container */
   border-radius: 10px 10px 10px 10px;
   border: 1px solid rgba(65, 75, 234, 1);
   opacity: 10; /* Adjust this as needed to make it visible */
   background-color: white; /* Add a background color if needed */
-  color: #1e1e1e; /* Text color */
+  font-weight: 500;
+  color: rgba(65, 75, 234, 1); /* Text color */
 }
 
 /*Rs Swamy*/
@@ -966,7 +968,8 @@ body {
   border: 1px solid rgba(65, 75, 234, 1);
   opacity: 10; /* Adjust this as needed to make it visible */
   background-color: white; /* Add a background color if needed */
-  color: #1e1e1e; /* Text color */
+  font-weight: 500;
+  color: rgba(65, 75, 234, 1); /* Text color */
 }
 
 /* Oyo */
@@ -1194,12 +1197,13 @@ body {
   height: 35px;
   position: relative; /* Ensures the 'bottom' and 'right' properties work */
   bottom: -135px; /* Distance from the bottom of the container */
-  right: 160px; /* Distance from the right of the container */
+  right: 165px; /* Distance from the right of the container */
   border-radius: 10px 10px 10px 10px;
   border: 1px solid rgba(65, 75, 234, 1);
   opacity: 10; /* Adjust this as needed to make it visible */
   background-color: white; /* Add a background color if needed */
-  color: #1e1e1e; /* Text color */
+  font-weight: 500;
+  color: rgba(65, 75, 234, 1); /* Text color */
 }
 
 /* Boat */
@@ -1427,12 +1431,13 @@ body {
   height: 35px;
   position: relative; /* Ensures the 'bottom' and 'right' properties work */
   bottom: -135px; /* Distance from the bottom of the container */
-  right: 160px; /* Distance from the right of the container */
+  right: 165px; /* Distance from the right of the container */
   border-radius: 10px 10px 10px 10px;
   border: 1px solid rgba(65, 75, 234, 1);
   opacity: 10; /* Adjust this as needed to make it visible */
   background-color: white; /* Add a background color if needed */
-  color: #1e1e1e; /* Text color */
+  font-weight: 500;
+  color: rgba(65, 75, 234, 1); /* Text color */
 }
 
 /* Cloudnine*/
@@ -1665,7 +1670,8 @@ body {
   border: 1px solid rgba(65, 75, 234, 1);
   opacity: 10; /* Adjust this as needed to make it visible */
   background-color: white; /* Add a background color if needed */
-  color: #1e1e1e; /* Text color */
+  font-weight: 500;
+  color: rgba(65, 75, 234, 1); /* Text color */
 }
 
 /* Ola */
@@ -1893,12 +1899,13 @@ body {
   height: 35px;
   position: relative; /* Ensures the 'bottom' and 'right' properties work */
   bottom: -135px; /* Distance from the bottom of the container */
-  right: 160px; /* Distance from the right of the container */
+  right: 165px; /* Distance from the right of the container */
   border-radius: 10px 10px 10px 10px;
   border: 1px solid rgba(65, 75, 234, 1);
   opacity: 10; /* Adjust this as needed to make it visible */
   background-color: white; /* Add a background color if needed */
-  color: #1e1e1e; /* Text color */
+  font-weight: 500;
+  color: rgba(65, 75, 234, 1); /* Text color */
 }
 
 /* Mobikwik */
@@ -2126,12 +2133,13 @@ body {
   height: 35px;
   position: relative; /* Ensures the 'bottom' and 'right' properties work */
   bottom: -135px; /* Distance from the bottom of the container */
-  right: 160px; /* Distance from the right of the container */
+  right: 165px; /* Distance from the right of the container */
   border-radius: 10px 10px 10px 10px;
   border: 1px solid rgba(65, 75, 234, 1);
   opacity: 10; /* Adjust this as needed to make it visible */
   background-color: white; /* Add a background color if needed */
-  color: #1e1e1e; /* Text color */
+  font-weight: 500;
+  color: rgba(65, 75, 234, 1); /* Text color */
 }
 
 /* Ixigo */
@@ -2364,7 +2372,8 @@ body {
   border: 1px solid rgba(65, 75, 234, 1);
   opacity: 10; /* Adjust this as needed to make it visible */
   background-color: white; /* Add a background color if needed */
-  color: #1e1e1e; /* Text color */
+  font-weight: 500;
+  color: rgba(65, 75, 234, 1); /* Text color */
 }
 
 /* Cmr */
@@ -2591,13 +2600,27 @@ body {
   width: 80px;
   height: 35px;
   position: relative; /* Ensures the 'bottom' and 'right' properties work */
-  bottom: -135px; /* Distance from the bottom of the container */
-  right: 160px; /* Distance from the right of the container */
+  bottom: -120px; /* Distance from the bottom of the container */
+  right: 165px; /* Distance from the right of the container */
   border-radius: 10px 10px 10px 10px;
   border: 1px solid rgba(65, 75, 234, 1);
   opacity: 10; /* Adjust this as needed to make it visible */
   background-color: white; /* Add a background color if needed */
-  color: #1e1e1e; /* Text color */
+  font-weight: 500;
+  color: rgba(65, 75, 234, 1); /* Text color */
+}
+
+.cmr-dhrp {
+  width: 80px;
+  height: 35px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1417.5px; /* Distance from the top of the container */
+  left: 113px; /* Distance from the left of the container */
+  border-radius: 10px 10px 10px 10px;
+  opacity: 1; /* Adjust opacity to make the button visible */
+  background: rgba(240, 85, 55, 1); /* Add a background color if needed */
+  color: white; /* Text color */
+  border: none;
 }
 
 /* Wellness */
@@ -2824,13 +2847,27 @@ body {
   width: 80px;
   height: 35px;
   position: relative; /* Ensures the 'bottom' and 'right' properties work */
-  bottom: -135px; /* Distance from the bottom of the container */
-  right: 160px; /* Distance from the right of the container */
+  bottom: -120px; /* Distance from the bottom of the container */
+  right: 165px; /* Distance from the right of the container */
   border-radius: 10px 10px 10px 10px;
   border: 1px solid rgba(65, 75, 234, 1);
   opacity: 10; /* Adjust this as needed to make it visible */
   background-color: white; /* Add a background color if needed */
-  color: #1e1e1e; /* Text color */
+  font-weight: 500;
+  color: rgba(65, 75, 234, 1); /* Text color */
+}
+
+.wellness-dhrp {
+  width: 80px;
+  height: 35px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1417.5px; /* Distance from the top of the container */
+  left: 640px; /* Distance from the left of the container */
+  border-radius: 10px 10px 10px 10px;
+  opacity: 1; /* Adjust opacity to make the button visible */
+  background: rgba(240, 85, 55, 1); /* Add a background color if needed */
+  color: white; /* Text color */
+  border: none;
 }
 
 /* Pkh */
@@ -3057,11 +3094,25 @@ body {
   width: 80px;
   height: 35px;
   position: relative; /* Ensures the 'bottom' and 'right' properties work */
-  bottom: -135px; /* Distance from the bottom of the container */
+  bottom: -120px; /* Distance from the bottom of the container */
   right: 160px; /* Distance from the right of the container */
   border-radius: 10px 10px 10px 10px;
+  font-weight: 500;
   border: 1px solid rgba(65, 75, 234, 1);
   opacity: 10; /* Adjust this as needed to make it visible */
   background-color: white; /* Add a background color if needed */
-  color: #1e1e1e; /* Text color */
+  color: rgba(65, 75, 234, 1); /* Text color */
+}
+
+.pkh-dhrp {
+  width: 80px;
+  height: 35px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1417.5px; /* Distance from the top of the container */
+  left: 1170px; /* Distance from the left of the container */
+  border-radius: 10px 10px 10px 10px;
+  opacity: 1; /* Adjust opacity to make the button visible */
+  background: rgba(240, 85, 55, 1); /* Add a background color if needed */
+  color: white; /* Text color */
+  border: none;
 }
