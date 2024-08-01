@@ -3233,3 +3233,35 @@ body {
   color: white; /* Text color */
   border: none;
 }
+
+.frequentlyAskedQuestions {
+  width: 581px;
+  height: 60px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1850px; /* Distance from the top of the container */
+  left: 45px; /* Distance from the left of the container */
+  gap: 0px;
+  opacity: 1; /* Adjust this as needed */
+  font-family: "Poppins", sans-serif;
+  font-size: 33px;
+  font-weight: 500;
+  line-height: 60px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1); /* Text color */
+}
+
+.frequentlyAskedQuestions2 {
+  width: auto;
+  height: 60px;
+  position: absolute; /* Ensures the 'top' and 'left' properties work */
+  top: 1900px; /* Distance from the top of the container */
+  left: 45px; /* Distance from the left of the container */
+  gap: 0px;
+  opacity: 1; /* Adjust this as needed */
+  font-family: "Poppins", sans-serif;
+  font-size: 19px;
+  font-weight: 400;
+  line-height: 60px;
+  text-align: left;
+  color: rgba(0, 0, 0, 1); /* Text color */
+}
